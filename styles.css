@@ -1,1 +1,10 @@
 /* complete CSS for the header and div border*/
+header {
+    background-color: green;
+    text-align: center;
+    color: white;
+} 
+
+h1 {
+    padding: 10px;
+}
